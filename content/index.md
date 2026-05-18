@@ -14,6 +14,3 @@ The main themes/concepts are as follows:
 
 In essence this world is the place where i have dumped many of my stem and science ideas.
 
-Main links
-
-- [[Characters]]
