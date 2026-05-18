@@ -5,3 +5,12 @@ With every slow adjustment of its frame, the crisp air of the room filled with t
 
 ---
 
+*Template Ref Images, Real ones are WIP*
+
+![[Pasted image 20260518110035.png]]
+
+<!-- This container groups only the last two images side-by-side --> <div style="display: flex; gap: 10px; width: 100%;"> <img src="9k57rbolytb71(1).png" alt="Ref 3" style="flex: 1; min-width: 0; object-fit: cover;"> <img src="Pasted image 20260518111348.png" alt="Ref 4" style="flex: 1; min-width: 0; object-fit: cover;"> </div>
+
+![[Pasted image 20260518110822.png]]
+
+---
