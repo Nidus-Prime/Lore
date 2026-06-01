@@ -1,3 +1,16 @@
+<div style="float: right; width: 300px; background: var(--light); border: 1px solid var(--gray); border-radius: 8px; padding: 16px; margin: 0 0 20px 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.15); box-sizing: border-box; font-size: 0.95em;">
+
+<h3 style="margin-top: 0; text-align: center; border-bottom: 1px solid var(--gray); padding-bottom: 8px; font-size: 1.1em;">Infobox</h3>
+
+<div style="display: flex; justify-content: space-between; padding: 6px 4px; border-bottom: 1px solid var(--lightgray);"><strong>Age</strong> 17*</div>
+
+<div style="display: flex; justify-content: space-between; padding: 6px 4px; border-bottom: 1px solid var(--lightgray);"><strong>Pronouns</strong> It/Its</div>
+
+<div style="display: flex; justify-content: space-between; padding: 6px 4px; border-bottom: 1px solid var(--lightgray);"><strong>Species</strong> Non-Human</div>
+
+<div style="display: flex; justify-content: space-between; padding: 6px 4px;"><strong>Faction</strong> <a href="./Lazarus-Company" style="color: var(--secondary); text-decoration: none; font-weight: 500;">Lazarus Company</a></div>
+
+</div>
 
 "It saw itself in the refection of the window, and the realty of its form was now revealed to it in absolutes. It began with its talons, glided needles framed by plates of sun bleached bone that coated the rest of its body. It caught a glance in the glass at the fractures between those plates, and saw the glimmer of fine filigree-like strands. it tried to move one of its joints and the strands contracted and waxed, whispering like silk sliding over stone. Furthermore, it now noticed its tail, about as long as it was tall; likewise covered again by those bone plates, and terminated with a single glistening spike. A low, rhythmic clicking could be heard as the plates flexed.
 
@@ -14,3 +27,5 @@ With every slow adjustment of its frame, the crisp air of the room filled with t
 ![[Pasted image 20260518110822.png]]
 
 ---
+
+
