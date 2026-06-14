@@ -4,18 +4,22 @@
 
 <div style="display: flex; justify-content: space-between; padding: 6px 4px; border-bottom: 1px solid var(--lightgray);"><strong>Alias/Nickname</strong> N/A</div>
 
-<div style="display: flex; justify-content: space-between; padding: 6px 4px; border-bottom: 1px solid var(--lightgray);"><strong>Age</strong> 17*</div>
-
-<div style="display: flex; justify-content: space-between; padding: 6px 4px; border-bottom: 1px solid var(--lightgray);"><strong>Height</strong>6' 2"</div>
+<div style="display: flex; justify-content: space-between; padding: 6px 4px; border-bottom: 1px solid var(--lightgray);"><strong>Species</strong> Non-Human</div>
 
 <div style="display: flex; justify-content: space-between; padding: 6px 4px; border-bottom: 1px solid var(--lightgray);"><strong>Pronouns</strong> It/Its</div>
 
-<div style="display: flex; justify-content: space-between; padding: 6px 4px; border-bottom: 1px solid var(--lightgray);"><strong>Species</strong> Non-Human</div>
+<div style="display: flex; justify-content: space-between; padding: 6px 4px; border-bottom: 1px solid var(--lightgray);"><strong>Honorific</strong>n/a</div>
 
 <div style="display: flex; justify-content: space-between; padding: 6px 4px;"><strong>Faction</strong> <a href="./Lazarus-Company" style="color: var(--secondary); text-decoration: none; font-weight: 500;">Lazarus Company</a>
 </div>
 
-<div style="display: flex; justify-content: space-between; padding: 6px 4px; border-bottom: 1px solid var(--lightgray);"><strong>Role</strong>Engineer </div>
+<div style="display: flex; justify-content: space-between; padding: 6px 4px; border-bottom: 1px solid var(--lightgray);"><strong>Occupation</strong>Engineer </div>
+
+<div style="display: flex; justify-content: space-between; padding: 6px 4px; border-bottom: 1px solid var(--lightgray);"><strong>Height</strong>6' 2"</div>
+
+<div style="display: flex; justify-content: space-between; padding: 6px 4px; border-bottom: 1px solid var(--lightgray);"><strong> Weight</strong></div>
+
+<div style="display: flex; justify-content: space-between; padding: 6px 4px; border-bottom: 1px solid var(--lightgray);"><strong> Features</strong></div>
 
 </div>
 
@@ -38,8 +42,7 @@ With every slow adjustment of its frame, the crisp air of the room filled with t
 ![[Pasted image 20260518110822.png]]
 
 ---
-
-## Background
+## Biography
 
 ---
 ## Relationships
