@@ -6,7 +6,7 @@
 
 <div style="display: flex; justify-content: space-between; padding: 6px 4px; border-bottom: 1px solid var(--lightgray);"><strong>Species</strong> Non-Human</div>
 
-<div style="display: flex; justify-content: space-between; padding: 6px 4px; border-bottom: 1px solid var(--lightgray);"><strong>Pronouns</strong> She/They</div>
+<div style="display: flex; justify-content: space-between; padding: 6px 4px; border-bottom: 1px solid var(--lightgray);"><strong>Pronouns</strong> They/She</div>
 
 <div style="display: flex; justify-content: space-between; padding: 6px 4px; border-bottom: 1px solid var(--lightgray);"><strong>Honorific</strong>Miss</div>
 

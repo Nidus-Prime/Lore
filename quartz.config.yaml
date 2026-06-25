@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Nidus' Lore
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -28,18 +28,18 @@ configuration:
         dark: "#2b2b2b"
         secondary: "#284b63"
         tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
+        highlight: "rgba(143, 159, 169, 0.15)"
         textHighlight: "#fff23688"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
+        light: "#000000"
+        lightgray: "#282830"
         gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        darkgray: "#b3b3b3"
+        dark: "#e3e3e6"
+        secondary: "#9551c2"
+        tertiary: "#c251b7"
+        highlight: "rgba(149, 81, 194, 0.12)"
+        textHighlight: "#b3aa0255"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
@@ -258,13 +258,6 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-  - source:
-      name: quartz-themes
-      repo: github:saberzero1/quartz-themes
-      subdir: plugin
-    enabled: true
-    options:
-      theme: default
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
